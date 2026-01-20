@@ -1,0 +1,5 @@
+{
+  "name": "Word Lens Puzzle",
+  "description": "An interactive English word learning game where you solve puzzles by dragging letters while listening to pronunciation and seeing AI-generated visuals.",
+  "requestFramePermissions": []
+}
